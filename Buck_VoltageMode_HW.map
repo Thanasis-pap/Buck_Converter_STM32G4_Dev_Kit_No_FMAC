@@ -1,0 +1,1928 @@
+Archive member included to satisfy reference by file (symbol)
+
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+                              .pio/build/nucleo_g474re/src/main.o (HAL_Init)
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+                              .pio/build/nucleo_g474re/src/adc.o (HAL_ADC_Init)
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+                              .pio/build/nucleo_g474re/src/main.o (HAL_ADCEx_Calibration_Start)
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+                              .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o) (HAL_NVIC_SetPriorityGrouping)
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+                              .pio/build/nucleo_g474re/src/adc.o (HAL_DMA_Init)
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+                              .pio/build/nucleo_g474re/src/fmac.o (HAL_FMAC_Init)
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+                              .pio/build/nucleo_g474re/src/adc.o (HAL_GPIO_Init)
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                              .pio/build/nucleo_g474re/src/hrtim.o (HAL_HRTIM_Init)
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+                              .pio/build/nucleo_g474re/src/main.o (HAL_PWREx_ControlVoltageScaling)
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+                              .pio/build/nucleo_g474re/src/main.o (HAL_RCC_OscConfig)
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+                              .pio/build/nucleo_g474re/src/main.o (HAL_RCCEx_PeriphCLKConfig)
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+                              .pio/build/nucleo_g474re/src/rtc.o (HAL_RTC_Init)
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+                              .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o) (HAL_RTCEx_AlarmBEventCallback)
+.pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+                              .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o) (HAL_PWR_EnableBkUpAccess)
+.pio/build/nucleo_g474re/lib9ba/libCMSIS.a(startup_stm32g474xx.o)
+                              (Reset_Handler)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o) (__call_exitprocs)
+/usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+                              .pio/build/nucleo_g474re/src/app_dpow.o (__aeabi_dmul)
+/usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+                              .pio/build/nucleo_g474re/src/app_dpow.o (__aeabi_i2d)
+/usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+                              .pio/build/nucleo_g474re/src/app_dpow.o (__aeabi_ddiv)
+/usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+                              .pio/build/nucleo_g474re/src/app_dpow.o (__aeabi_d2uiz)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+sFmacConfig         0x2c              .pio/build/nucleo_g474re/src/main.o
+uwTick              0x4               .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+hadc1               0x6c              .pio/build/nucleo_g474re/src/adc.o
+hhrtim1             0xfc              .pio/build/nucleo_g474re/src/hrtim.o
+hdma_adc1           0x60              .pio/build/nucleo_g474re/src/adc.o
+hrtc                0x28              .pio/build/nucleo_g474re/src/rtc.o
+hfmac               0x38              .pio/build/nucleo_g474re/src/fmac.o
+hdma_fmac_read      0x60              .pio/build/nucleo_g474re/src/main.o
+Fmac_output         0x2               .pio/build/nucleo_g474re/src/main.o
+Fmac_Wdata          0x4               .pio/build/nucleo_g474re/src/main.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000000000000       0x70 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .debug_line    0x0000000000000000       0x87 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .debug_str     0x0000000000000000       0x98 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/adc.o
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/adc.o
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/adc.o
+ .text.HAL_ADC_MspDeInit
+                0x0000000000000000       0x40 .pio/build/nucleo_g474re/src/adc.o
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/app_dpow.o
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/app_dpow.o
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/app_dpow.o
+ .text.HAL_HRTIM_NsToTicks
+                0x0000000000000000       0x74 .pio/build/nucleo_g474re/src/app_dpow.o
+ .text.HAL_HRTIM_FreqToTicks
+                0x0000000000000000       0x64 .pio/build/nucleo_g474re/src/app_dpow.o
+ .text.HAL_HRTIM_DeadBandNsToTicks
+                0x0000000000000000       0x40 .pio/build/nucleo_g474re/src/app_dpow.o
+ .rodata.scaleTable
+                0x0000000000000000       0x20 .pio/build/nucleo_g474re/src/app_dpow.o
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/dma.o
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/dma.o
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/dma.o
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/fmac.o
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/fmac.o
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/fmac.o
+ .text.HAL_FMAC_MspDeInit
+                0x0000000000000000       0x24 .pio/build/nucleo_g474re/src/fmac.o
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/gpio.o
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/gpio.o
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/gpio.o
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/hrtim.o
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/hrtim.o
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/hrtim.o
+ .text.HAL_HRTIM_MspDeInit
+                0x0000000000000000       0x1c .pio/build/nucleo_g474re/src/hrtim.o
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/main.o
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/main.o
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/main.o
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/rtc.o
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/rtc.o
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/rtc.o
+ .text.HAL_RTC_MspDeInit
+                0x0000000000000000       0x20 .pio/build/nucleo_g474re/src/rtc.o
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/stm32g4xx_hal_msp.o
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/stm32g4xx_hal_msp.o
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/stm32g4xx_hal_msp.o
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/system_stm32g4xx.o
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/system_stm32g4xx.o
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/src/system_stm32g4xx.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x78 .pio/build/nucleo_g474re/src/system_stm32g4xx.o
+ .rodata.APBPrescTable
+                0x0000000000000000        0x8 .pio/build/nucleo_g474re/src/system_stm32g4xx.o
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_MspInit
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_MspDeInit
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_DeInit
+                0x0000000000000000       0x2c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_GetTickPrio
+                0x0000000000000000        0xc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SetTickFreq
+                0x0000000000000000       0x28 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_GetTickFreq
+                0x0000000000000000        0xc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SuspendTick
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_ResumeTick
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_GetHalVersion
+                0x0000000000000000        0x8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_GetREVID
+                0x0000000000000000        0xc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_GetDEVID
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SYSCFG_CCMSRAMErase
+                0x0000000000000000       0x18 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SYSCFG_EnableMemorySwappingBank
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SYSCFG_DisableMemorySwappingBank
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SYSCFG_VREFBUF_VoltageScalingConfig
+                0x0000000000000000       0x14 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SYSCFG_VREFBUF_HighImpedanceConfig
+                0x0000000000000000       0x14 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SYSCFG_VREFBUF_TrimmingConfig
+                0x0000000000000000       0x14 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SYSCFG_EnableVREFBUF
+                0x0000000000000000       0x30 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SYSCFG_DisableVREFBUF
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SYSCFG_EnableIOSwitchBooster
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SYSCFG_DisableIOSwitchBooster
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SYSCFG_EnableIOSwitchVDD
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SYSCFG_DisableIOSwitchVDD
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text.HAL_SYSCFG_CCMSRAM_WriteProtectionEnable
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.LL_ADC_SetAnalogWDMonitChannels
+                0x0000000000000000       0x2c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_MspInit
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_MspDeInit
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_PollForConversion
+                0x0000000000000000      0x130 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_PollForEvent
+                0x0000000000000000       0xb8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_GetValue
+                0x0000000000000000        0x6 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_StartSampling
+                0x0000000000000000        0xe .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_StopSampling
+                0x0000000000000000        0xe .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_LevelOutOfWindowCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_IRQHandler
+                0x0000000000000000      0x298 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_AnalogWDGConfig
+                0x0000000000000000      0x244 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_GetState
+                0x0000000000000000        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_GetError
+                0x0000000000000000        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.ADC_ConversionStop
+                0x0000000000000000       0xd4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_Start
+                0x0000000000000000      0x104 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_Start_IT
+                0x0000000000000000      0x174 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_DeInit
+                0x0000000000000000      0x1cc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_Stop
+                0x0000000000000000       0x3e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_Stop_IT
+                0x0000000000000000       0x48 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.HAL_ADC_Stop_DMA
+                0x0000000000000000       0x7c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.LL_ADC_SetChannelSamplingTime
+                0x0000000000000000       0x22 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.LL_ADC_INJ_IsConversionOngoing
+                0x0000000000000000        0x8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_Calibration_GetValue
+                0x0000000000000000       0x16 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_Calibration_SetValue
+                0x0000000000000000       0x74 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_InjectedStart
+                0x0000000000000000       0xf8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_InjectedStop
+                0x0000000000000000       0x54 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_InjectedPollForConversion
+                0x0000000000000000       0xf8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_InjectedStart_IT
+                0x0000000000000000      0x124 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_InjectedStop_IT
+                0x0000000000000000       0x5c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_MultiModeStart_DMA
+                0x0000000000000000      0x100 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_MultiModeStop_DMA
+                0x0000000000000000      0x100 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_MultiModeGetValue
+                0x0000000000000000       0x28 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_InjectedGetValue
+                0x0000000000000000       0x32 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_InjectedConvCpltCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_InjectedQueueOverflowCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_LevelOutOfWindow2Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_LevelOutOfWindow3Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_EndOfSamplingCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_RegularStop
+                0x0000000000000000       0x5a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_RegularStop_IT
+                0x0000000000000000       0x62 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_RegularStop_DMA
+                0x0000000000000000       0x88 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_RegularMultiModeStop_DMA
+                0x0000000000000000      0x114 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_InjectedConfigChannel
+                0x0000000000000000      0x50c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_EnableInjectedQueue
+                0x0000000000000000       0x2e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_DisableInjectedQueue
+                0x0000000000000000       0x2e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_DisableVoltageRegulator
+                0x0000000000000000       0x20 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.HAL_ADCEx_EnterADCDeepPowerDownMode
+                0x0000000000000000       0x24 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_NVIC_DisableIRQ
+                0x0000000000000000       0x28 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_NVIC_SystemReset
+                0x0000000000000000       0x24 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPriority
+                0x0000000000000000       0x5c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_NVIC_SetPendingIRQ
+                0x0000000000000000       0x20 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPendingIRQ
+                0x0000000000000000       0x24 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x0000000000000000       0x20 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_NVIC_GetActive
+                0x0000000000000000       0x24 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x0000000000000000       0x18 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_SYSTICK_Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_SYSTICK_IRQHandler
+                0x0000000000000000        0x8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_MPU_Enable
+                0x0000000000000000       0x18 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_MPU_Disable
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text.HAL_MPU_ConfigRegion
+                0x0000000000000000       0x50 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .text.HAL_DMA_DeInit
+                0x0000000000000000       0xb0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .text.HAL_DMA_Start
+                0x0000000000000000       0x4a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .text.HAL_DMA_Abort
+                0x0000000000000000       0x66 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .text.HAL_DMA_Abort_IT
+                0x0000000000000000       0x78 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .text.HAL_DMA_PollForTransfer
+                0x0000000000000000       0xfc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .text.HAL_DMA_IRQHandler
+                0x0000000000000000       0x94 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .text.HAL_DMA_RegisterCallback
+                0x0000000000000000       0x46 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .text.HAL_DMA_UnRegisterCallback
+                0x0000000000000000       0x4e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .text.HAL_DMA_GetState
+                0x0000000000000000        0x6 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .text.HAL_DMA_GetError
+                0x0000000000000000        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.FMAC_ReadDataIncrementPtr
+                0x0000000000000000       0x80 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.FMAC_WriteDataIncrementPtr
+                0x0000000000000000       0x7c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_MspInit
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_MspDeInit
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_DeInit
+                0x0000000000000000       0x3c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_FilterConfig_DMA
+                0x0000000000000000       0x1a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_FilterPreload_DMA
+                0x0000000000000000       0x14 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_AppendFilterData
+                0x0000000000000000       0x78 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_ConfigFilterOutputBuffer
+                0x0000000000000000       0x3a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_PollFilterData
+                0x0000000000000000       0xec .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_FilterStop
+                0x0000000000000000       0x82 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_HalfGetDataCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.FMAC_DMAHalfGetData
+                0x0000000000000000        0xa .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_GetDataCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.FMAC_DMAGetData
+                0x0000000000000000       0x18 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_IRQHandler
+                0x0000000000000000       0xcc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_GetState
+                0x0000000000000000        0x6 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_GetError
+                0x0000000000000000        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+ .text.HAL_GPIO_DeInit
+                0x0000000000000000       0xf8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+ .text.HAL_GPIO_ReadPin
+                0x0000000000000000        0xc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+ .text.HAL_GPIO_LockPin
+                0x0000000000000000       0x2a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+ .text.HAL_GPIO_EXTI_Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HRTIM_EventConfig
+                0x0000000000000000      0x218 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HRTIM_GetITFromOCMode
+                0x0000000000000000       0xae .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HRTIM_GetDMAFromOCMode
+                0x0000000000000000       0xb2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HRTIM_GetDMAHandleFromTimerIdx
+                0x0000000000000000       0x3e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.GetTimerIdxFromDMAHandle
+                0x0000000000000000       0x58 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_MspInit
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_MspDeInit
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_DeInit
+                0x0000000000000000       0x1e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_DLLCalibrationStart_IT
+                0x0000000000000000       0x68 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleBaseStart
+                0x0000000000000000       0x34 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleBaseStop
+                0x0000000000000000       0xd0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleBaseStart_IT
+                0x0000000000000000       0x60 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleBaseStop_IT
+                0x0000000000000000       0xe4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleBaseStart_DMA
+                0x0000000000000000       0xd4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleBaseStop_DMA
+                0x0000000000000000      0x128 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleOCChannelConfig
+                0x0000000000000000      0x128 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleOCStart
+                0x0000000000000000       0x40 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleOCStop
+                0x0000000000000000       0xcc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleOCStart_IT
+                0x0000000000000000       0x5c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleOCStop_IT
+                0x0000000000000000       0xe8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleOCStart_DMA
+                0x0000000000000000       0xcc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleOCStop_DMA
+                0x0000000000000000      0x110 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimplePWMChannelConfig
+                0x0000000000000000       0xf2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimplePWMStart
+                0x0000000000000000        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimplePWMStop
+                0x0000000000000000        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimplePWMStart_IT
+                0x0000000000000000       0xbc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimplePWMStop_IT
+                0x0000000000000000      0x144 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimplePWMStart_DMA
+                0x0000000000000000      0x12c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimplePWMStop_DMA
+                0x0000000000000000      0x178 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleCaptureChannelConfig
+                0x0000000000000000       0x98 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleCaptureStart
+                0x0000000000000000       0x84 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleCaptureStop
+                0x0000000000000000      0x114 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleCaptureStart_IT
+                0x0000000000000000       0x98 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleCaptureStop_IT
+                0x0000000000000000      0x128 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleCaptureStart_DMA
+                0x0000000000000000       0xdc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleCaptureStop_DMA
+                0x0000000000000000      0x140 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleOnePulseChannelConfig
+                0x0000000000000000      0x1a0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleOnePulseStart
+                0x0000000000000000        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleOnePulseStop
+                0x0000000000000000        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleOnePulseStart_IT
+                0x0000000000000000        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SimpleOnePulseStop_IT
+                0x0000000000000000        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_BurstModeConfig
+                0x0000000000000000       0x74 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_EventConfig
+                0x0000000000000000       0x36 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_EventPrescalerConfig
+                0x0000000000000000       0x42 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_FaultConfig
+                0x0000000000000000      0x1b2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_FaultPrescalerConfig
+                0x0000000000000000       0x42 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_FaultBlankingConfigAndEnable
+                0x0000000000000000       0xea .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_FaultCounterConfig
+                0x0000000000000000       0xf6 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_FaultCounterReset
+                0x0000000000000000       0xb4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_FaultModeCtl
+                0x0000000000000000       0x9c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_RollOverModeConfig
+                0x0000000000000000       0x58 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_TimerDualChannelDacConfig
+                0x0000000000000000       0x5a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_TimerEventFilteringConfig
+                0x0000000000000000      0x17a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_ExtEventCounterConfig
+                0x0000000000000000       0xa8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_ExtEventCounterEnable
+                0x0000000000000000       0x62 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_ExtEventCounterDisable
+                0x0000000000000000       0x62 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_ExtEventCounterReset
+                0x0000000000000000       0x62 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_ChopperModeConfig
+                0x0000000000000000       0x5e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_BurstDMAConfig
+                0x0000000000000000       0x90 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_WaveformCaptureConfig
+                0x0000000000000000       0xae .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_WaveformSetOutputLevel
+                0x0000000000000000       0xd6 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_WaveformOutputStop
+                0x0000000000000000       0x2c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_WaveformCountStop
+                0x0000000000000000       0x2a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_WaveformCountStart_IT
+                0x0000000000000000       0x7c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_WaveformCountStop_IT
+                0x0000000000000000       0x90 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_WaveformCountStart_DMA
+                0x0000000000000000       0xf4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_WaveformCountStop_DMA
+                0x0000000000000000      0x148 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_BurstModeCtl
+                0x0000000000000000       0x3e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_BurstModeSoftwareTrigger
+                0x0000000000000000       0x3c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SoftwareCapture
+                0x0000000000000000       0x7a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SwapTimerOutput
+                0x0000000000000000       0x3a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SoftwareUpdate
+                0x0000000000000000        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SoftwareReset
+                0x0000000000000000       0x34 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_OutputSwapEnable
+                0x0000000000000000        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_OutputSwapDisable
+                0x0000000000000000       0x3c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_BurstDMATransfer
+                0x0000000000000000       0x88 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_UpdateEnable
+                0x0000000000000000       0x2e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_UpdateDisable
+                0x0000000000000000       0x2c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_GetState
+                0x0000000000000000        0x6 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_GetCapturedValue
+                0x0000000000000000       0x34 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_GetCaptured
+                0x0000000000000000       0x3e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_GetCapturedDir
+                0x0000000000000000       0x36 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_WaveformGetOutputLevel
+                0x0000000000000000       0x7e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_WaveformGetOutputState
+                0x0000000000000000       0x72 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_GetDelayedProtectionStatus
+                0x0000000000000000       0x7e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_GetBurstStatus
+                0x0000000000000000        0xc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_GetCurrentPushPullStatus
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_GetIdlePushPullStatus
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Fault1Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Fault2Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Fault3Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Fault4Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Fault5Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Fault6Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SystemFaultCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_DLLCalibrationReadyCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_BurstModePeriodCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_SynchronizationEventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_RegistersUpdateCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_RepetitionEventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Compare1EventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Compare2EventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Compare3EventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Compare4EventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HRTIM_DMAMasterCplt
+                0x0000000000000000       0x66 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Capture1EventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Capture2EventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_DelayedProtectionCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_CounterResetCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Output1SetCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Output1ResetCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Output2SetCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_Output2ResetCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HRTIM_DMATimerxCplt
+                0x0000000000000000       0xfa .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_IRQHandler
+                0x0000000000000000      0x33c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_BurstDMATransferCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HRTIM_BurstDMACplt
+                0x0000000000000000       0x16 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HAL_HRTIM_ErrorCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HRTIM_DMAError
+                0x0000000000000000        0xa .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .rodata.CSWTCH.15
+                0x0000000000000000       0x14 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .rodata.TimerIdxToTimerId
+                0x0000000000000000       0x1c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_GetVoltageRange
+                0x0000000000000000       0x24 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnableBatteryCharging
+                0x0000000000000000       0x1c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisableBatteryCharging
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnableInternalWakeUpLine
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisableInternalWakeUpLine
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnableGPIOPullUp
+                0x0000000000000000       0xb0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisableGPIOPullUp
+                0x0000000000000000       0x78 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnableGPIOPullDown
+                0x0000000000000000       0xb0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisableGPIOPullDown
+                0x0000000000000000       0x7c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnablePullUpPullDownConfig
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisablePullUpPullDownConfig
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnableSRAM2ContentRetention
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisableSRAM2ContentRetention
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnablePVM1
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisablePVM1
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnablePVM2
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisablePVM2
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnablePVM3
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisablePVM3
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnablePVM4
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisablePVM4
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_ConfigPVM
+                0x0000000000000000      0x174 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnableLowPowerRunMode
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisableLowPowerRunMode
+                0x0000000000000000       0x44 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnterSTOP0Mode
+                0x0000000000000000       0x34 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnterSTOP1Mode
+                0x0000000000000000       0x38 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnterSHUTDOWNMode
+                0x0000000000000000       0x24 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_PVM1Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_PVM2Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_PVM3Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_PVM4Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_PVD_PVM_IRQHandler
+                0x0000000000000000       0x54 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnableUCPDStandbyMode
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisableUCPDStandbyMode
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnableUCPDDeadBattery
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .text.HAL_RCC_DeInit
+                0x0000000000000000       0xb8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .text.HAL_RCC_MCOConfig
+                0x0000000000000000       0x50 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .text.HAL_RCC_GetHCLKFreq
+                0x0000000000000000        0xc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .text.HAL_RCC_GetPCLK1Freq
+                0x0000000000000000       0x24 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .text.HAL_RCC_GetPCLK2Freq
+                0x0000000000000000       0x24 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .text.HAL_RCC_GetOscConfig
+                0x0000000000000000       0xb8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .text.HAL_RCC_GetClockConfig
+                0x0000000000000000       0x3c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .text.HAL_RCC_EnableCSS
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .text.HAL_RCC_EnableLSECSS
+                0x0000000000000000       0x14 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .text.HAL_RCC_DisableLSECSS
+                0x0000000000000000       0x14 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .text.HAL_RCC_CSSCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .text.HAL_RCC_NMI_IRQHandler
+                0x0000000000000000       0x1c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x0000000000000000       0xd8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x0000000000000000      0x47c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_EnableLSECSS
+                0x0000000000000000       0x14 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_DisableLSECSS
+                0x0000000000000000       0x1c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_EnableLSECSS_IT
+                0x0000000000000000       0x30 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_LSECSS_Callback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_LSECSS_IRQHandler
+                0x0000000000000000       0x1c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_EnableLSCO
+                0x0000000000000000       0x90 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_DisableLSCO
+                0x0000000000000000       0x5c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_CRSConfig
+                0x0000000000000000       0x4c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_CRSGetSynchronizationInfo
+                0x0000000000000000       0x24 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_CRSWaitSynchronization
+                0x0000000000000000       0x94 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_CRS_SyncOkCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_CRS_SyncWarnCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_CRS_ExpectedSyncCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_CRS_ErrorCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_CRS_IRQHandler
+                0x0000000000000000       0x7c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_MspInit
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_MspDeInit
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_DeactivateAlarm
+                0x0000000000000000       0xa8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_AlarmAEventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_AlarmIRQHandler
+                0x0000000000000000       0x44 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_PollForAlarmAEvent
+                0x0000000000000000       0x44 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_GetState
+                0x0000000000000000        0x6 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_DeInit
+                0x0000000000000000       0x94 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.RTC_ByteToBcd2
+                0x0000000000000000       0x16 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_SetTime
+                0x0000000000000000       0xc8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_SetDate
+                0x0000000000000000       0x94 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_SetAlarm
+                0x0000000000000000      0x144 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_SetAlarm_IT
+                0x0000000000000000      0x170 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.RTC_Bcd2ToByte
+                0x0000000000000000       0x12 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_GetTime
+                0x0000000000000000       0x50 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_GetDate
+                0x0000000000000000       0x44 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_GetAlarm
+                0x0000000000000000       0x80 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_DST_Add1Hour
+                0x0000000000000000       0x1c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_DST_Sub1Hour
+                0x0000000000000000       0x1c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_DST_SetStoreOperation
+                0x0000000000000000       0x1c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_DST_ClearStoreOperation
+                0x0000000000000000       0x1c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text.HAL_RTC_DST_ReadStoreOperation
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_SetTimeStamp
+                0x0000000000000000       0x48 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_SetTimeStamp_IT
+                0x0000000000000000       0x64 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_DeactivateTimeStamp
+                0x0000000000000000       0x50 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_SetInternalTimeStamp
+                0x0000000000000000       0x3c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_DeactivateInternalTimeStamp
+                0x0000000000000000       0x3c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_GetTimeStamp
+                0x0000000000000000       0x84 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_TimeStampEventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_TimeStampIRQHandler
+                0x0000000000000000       0x3c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_PollForTimeStampEvent
+                0x0000000000000000       0x58 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_SetWakeUpTimer
+                0x0000000000000000       0x9c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_SetWakeUpTimer_IT
+                0x0000000000000000       0xb4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_DeactivateWakeUpTimer
+                0x0000000000000000       0x78 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_GetWakeUpTimer
+                0x0000000000000000        0xc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_WakeUpTimerEventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_WakeUpTimerIRQHandler
+                0x0000000000000000       0x2c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_PollForWakeUpTimerEvent
+                0x0000000000000000       0x48 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_SetSmoothCalib
+                0x0000000000000000       0x8c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_SetSynchroShift
+                0x0000000000000000       0xbc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_SetCalibrationOutPut
+                0x0000000000000000       0x44 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_DeactivateCalibrationOutPut
+                0x0000000000000000       0x3c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_SetRefClock
+                0x0000000000000000       0x54 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_DeactivateRefClock
+                0x0000000000000000       0x54 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_EnableBypassShadow
+                0x0000000000000000       0x3c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_DisableBypassShadow
+                0x0000000000000000       0x3c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_AlarmBEventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_PollForAlarmBEvent
+                0x0000000000000000       0x48 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_SetTamper
+                0x0000000000000000       0x78 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_SetTamper_IT
+                0x0000000000000000       0x98 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_DeactivateTamper
+                0x0000000000000000       0x38 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_PollForTamperEvent
+                0x0000000000000000       0x38 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_SetInternalTamper
+                0x0000000000000000       0x3c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_SetInternalTamper_IT
+                0x0000000000000000       0x58 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_DeactivateInternalTamper
+                0x0000000000000000       0x24 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_PollForInternalTamperEvent
+                0x0000000000000000        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_Tamper1EventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_Tamper2EventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_Tamper3EventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_InternalTamper3EventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_InternalTamper4EventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_InternalTamper5EventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_InternalTamper6EventCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_TamperIRQHandler
+                0x0000000000000000       0x64 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_BKUPWrite
+                0x0000000000000000        0xe .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text.HAL_RTCEx_BKUPRead
+                0x0000000000000000        0xe .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .comment       0x0000000000000000       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .ARM.attributes
+                0x0000000000000000       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc_ex.o)
+ .text          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_DeInit
+                0x0000000000000000       0x18 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_EnableBkUpAccess
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_DisableBkUpAccess
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_ConfigPVD
+                0x0000000000000000       0x70 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_EnablePVD
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_DisablePVD
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_EnableWakeUpPin
+                0x0000000000000000       0x20 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_DisableWakeUpPin
+                0x0000000000000000       0x14 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_EnterSLEEPMode
+                0x0000000000000000       0x40 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_EnterSTOPMode
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x0000000000000000       0x24 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_EnableSleepOnExit
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_DisableSleepOnExit
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_EnableSEVOnPend
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_DisableSEVOnPend
+                0x0000000000000000       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text.HAL_PWR_PVDCallback
+                0x0000000000000000        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .comment       0x0000000000000000       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .ARM.attributes
+                0x0000000000000000       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr.o)
+ .text          0x0000000000000000       0x14 .pio/build/nucleo_g474re/lib9ba/libCMSIS.a(startup_stm32g474xx.o)
+ .data          0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib9ba/libCMSIS.a(startup_stm32g474xx.o)
+ .bss           0x0000000000000000        0x0 .pio/build/nucleo_g474re/lib9ba/libCMSIS.a(startup_stm32g474xx.o)
+ .text          0x0000000000000000        0xc /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o)
+ .debug_info    0x0000000000000000      0x995 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000000000      0x1f4 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o)
+ .debug_loc     0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o)
+ .debug_line    0x0000000000000000      0x150 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o)
+ .debug_str     0x0000000000000000      0x631 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o)
+ .comment       0x0000000000000000       0x5a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atexit.o)
+ .text          0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_info    0x0000000000000000      0x9e7 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000000      0x1f6 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_loc     0x0000000000000000       0x22 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_line    0x0000000000000000      0x16c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_str     0x0000000000000000      0x632 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x5a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fini.o)
+ .debug_info    0x0000000000000000      0x102 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fini.o)
+ .debug_abbrev  0x0000000000000000       0xcf /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fini.o)
+ .debug_loc     0x0000000000000000       0x68 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fini.o)
+ .debug_line    0x0000000000000000       0xec /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fini.o)
+ .debug_str     0x0000000000000000      0x203 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fini.o)
+ .comment       0x0000000000000000       0x5a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000       0x64 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .rodata        0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .debug_info    0x0000000000000000      0x92a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000000      0x17a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000000       0x18 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .debug_line    0x0000000000000000       0xe3 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .debug_str     0x0000000000000000      0x5e6 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x5a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000       0xac /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000       0x8c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000000000      0xa3c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000000000      0x261 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000000000      0x1f5 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000000000      0x232 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o)
+ .debug_str     0x0000000000000000      0x684 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o)
+ .comment       0x0000000000000000       0x5a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000000       0x38 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__atexit.o)
+ .text          0x0000000000000000       0xb8 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000000000000000      0xa10 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x0000000000000000      0x237 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_loc     0x0000000000000000      0x1b9 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x0000000000000000       0x38 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000000000      0x285 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_str     0x0000000000000000      0x62f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000000       0x5a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000000       0x4c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000      0x254 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .debug_line    0x0000000000000000      0x10c /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .debug_str     0x0000000000000000       0xa8 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x0000000000000000       0x30 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .text          0x0000000000000000      0x378 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x0000000000000000      0x186 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_str     0x0000000000000000       0xa8 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000000000       0xac /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .text          0x0000000000000000      0x424 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .debug_line    0x0000000000000000      0x19b /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .debug_str     0x0000000000000000       0xa8 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000000000000000       0x50 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .text          0x0000000000000000       0x40 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_line    0x0000000000000000       0x75 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_str     0x0000000000000000       0xa8 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x0000000000000000       0x24 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .debug_info    0x0000000000000000       0xa3 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .debug_abbrev  0x0000000000000000       0x6a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .debug_loc     0x0000000000000000       0x15 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .debug_line    0x0000000000000000       0x75 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .debug_str     0x0000000000000000      0x1a3 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .comment       0x0000000000000000       0x5a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000020000 xrw
+FLASH            0x0000000008000000 0x0000000000080000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD .pio/build/nucleo_g474re/src/adc.o
+LOAD .pio/build/nucleo_g474re/src/app_dpow.o
+LOAD .pio/build/nucleo_g474re/src/dma.o
+LOAD .pio/build/nucleo_g474re/src/fmac.o
+LOAD .pio/build/nucleo_g474re/src/gpio.o
+LOAD .pio/build/nucleo_g474re/src/hrtim.o
+LOAD .pio/build/nucleo_g474re/src/main.o
+LOAD .pio/build/nucleo_g474re/src/rtc.o
+LOAD .pio/build/nucleo_g474re/src/stm32g4xx_hal_msp.o
+LOAD .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+LOAD .pio/build/nucleo_g474re/src/system_stm32g4xx.o
+START GROUP
+LOAD .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a
+LOAD .pio/build/nucleo_g474re/lib9ba/libCMSIS.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000020020000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x1d8
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x1d8 .pio/build/nucleo_g474re/lib9ba/libCMSIS.a(startup_stm32g474xx.o)
+                0x0000000008000000                g_pfnVectors
+                0x00000000080001d8                . = ALIGN (0x4)
+
+.text           0x00000000080001d8     0x3874
+                0x00000000080001d8                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000000080001d8       0x88 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000008000260       0x48 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+                0x0000000008000260                __libc_init_array
+ .text          0x00000000080002a8       0xa0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                0x00000000080002a8                memset
+ *(.text*)
+ .text.MX_ADC1_Init
+                0x0000000008000348       0xa8 .pio/build/nucleo_g474re/src/adc.o
+                0x0000000008000348                MX_ADC1_Init
+ .text.HAL_ADC_MspInit
+                0x00000000080003f0       0xbc .pio/build/nucleo_g474re/src/adc.o
+                0x00000000080003f0                HAL_ADC_MspInit
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000080004ac       0x48 .pio/build/nucleo_g474re/src/app_dpow.o
+                0x00000000080004ac                HAL_GPIO_EXTI_Callback
+ .text.Demo_Error_Handler
+                0x00000000080004f4       0x1c .pio/build/nucleo_g474re/src/app_dpow.o
+                0x00000000080004f4                Demo_Error_Handler
+ .text.MX_DMA_Init
+                0x0000000008000510       0x44 .pio/build/nucleo_g474re/src/dma.o
+                0x0000000008000510                MX_DMA_Init
+ .text.MX_FMAC_Init
+                0x0000000008000554       0x20 .pio/build/nucleo_g474re/src/fmac.o
+                0x0000000008000554                MX_FMAC_Init
+ .text.HAL_FMAC_MspInit
+                0x0000000008000574       0x40 .pio/build/nucleo_g474re/src/fmac.o
+                0x0000000008000574                HAL_FMAC_MspInit
+ .text.MX_GPIO_Init
+                0x00000000080005b4      0x16c .pio/build/nucleo_g474re/src/gpio.o
+                0x00000000080005b4                MX_GPIO_Init
+ .text.HAL_HRTIM_MspInit
+                0x0000000008000720       0x28 .pio/build/nucleo_g474re/src/hrtim.o
+                0x0000000008000720                HAL_HRTIM_MspInit
+ .text.HAL_HRTIM_MspPostInit
+                0x0000000008000748       0x54 .pio/build/nucleo_g474re/src/hrtim.o
+                0x0000000008000748                HAL_HRTIM_MspPostInit
+ .text.MX_HRTIM1_Init
+                0x000000000800079c      0x1e4 .pio/build/nucleo_g474re/src/hrtim.o
+                0x000000000800079c                MX_HRTIM1_Init
+ .text.LoadHandler
+                0x0000000008000980       0x84 .pio/build/nucleo_g474re/src/main.o
+                0x0000000008000980                LoadHandler
+ .text.SysTick_Handler
+                0x0000000008000a04       0x34 .pio/build/nucleo_g474re/src/main.o
+                0x0000000008000a04                SysTick_Handler
+ .text.SystemClock_Config
+                0x0000000008000a38       0x9e .pio/build/nucleo_g474re/src/main.o
+                0x0000000008000a38                SystemClock_Config
+ *fill*         0x0000000008000ad6        0x2 
+ .text.startup.main
+                0x0000000008000ad8      0x154 .pio/build/nucleo_g474re/src/main.o
+                0x0000000008000ad8                main
+ .text.Error_Handler
+                0x0000000008000c2c        0x4 .pio/build/nucleo_g474re/src/main.o
+                0x0000000008000c2c                Error_Handler
+ .text.MX_RTC_Init
+                0x0000000008000c30       0x3c .pio/build/nucleo_g474re/src/rtc.o
+                0x0000000008000c30                MX_RTC_Init
+ .text.HAL_RTC_MspInit
+                0x0000000008000c6c       0x20 .pio/build/nucleo_g474re/src/rtc.o
+                0x0000000008000c6c                HAL_RTC_MspInit
+ .text.HAL_MspInit
+                0x0000000008000c8c       0x34 .pio/build/nucleo_g474re/src/stm32g4xx_hal_msp.o
+                0x0000000008000c8c                HAL_MspInit
+ .text.NMI_Handler
+                0x0000000008000cc0        0x2 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+                0x0000000008000cc0                NMI_Handler
+ .text.HardFault_Handler
+                0x0000000008000cc2        0x2 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+                0x0000000008000cc2                HardFault_Handler
+ .text.MemManage_Handler
+                0x0000000008000cc4        0x2 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+                0x0000000008000cc4                MemManage_Handler
+ .text.BusFault_Handler
+                0x0000000008000cc6        0x2 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+                0x0000000008000cc6                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0000000008000cc8        0x2 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+                0x0000000008000cc8                UsageFault_Handler
+ .text.SVC_Handler
+                0x0000000008000cca        0x2 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+                0x0000000008000cca                SVC_Handler
+ .text.DebugMon_Handler
+                0x0000000008000ccc        0x2 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+                0x0000000008000ccc                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0000000008000cce        0x2 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+                0x0000000008000cce                PendSV_Handler
+ .text.EXTI2_IRQHandler
+                0x0000000008000cd0        0x6 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+                0x0000000008000cd0                EXTI2_IRQHandler
+ .text.EXTI4_IRQHandler
+                0x0000000008000cd6        0x6 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+                0x0000000008000cd6                EXTI4_IRQHandler
+ .text.EXTI9_5_IRQHandler
+                0x0000000008000cdc        0x6 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+                0x0000000008000cdc                EXTI9_5_IRQHandler
+ .text.EXTI15_10_IRQHandler
+                0x0000000008000ce2       0x16 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+                0x0000000008000ce2                EXTI15_10_IRQHandler
+ .text.FMAC_IRQHandler
+                0x0000000008000cf8       0x30 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+                0x0000000008000cf8                FMAC_IRQHandler
+ .text.SystemInit
+                0x0000000008000d28       0x1c .pio/build/nucleo_g474re/src/system_stm32g4xx.o
+                0x0000000008000d28                SystemInit
+ .text.HAL_InitTick
+                0x0000000008000d44       0x4c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+                0x0000000008000d44                HAL_InitTick
+ .text.HAL_Init
+                0x0000000008000d90       0x1e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+                0x0000000008000d90                HAL_Init
+ *fill*         0x0000000008000dae        0x2 
+ .text.HAL_IncTick
+                0x0000000008000db0       0x18 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+                0x0000000008000db0                HAL_IncTick
+ .text.HAL_GetTick
+                0x0000000008000dc8        0xc .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+                0x0000000008000dc8                HAL_GetTick
+ .text.HAL_Delay
+                0x0000000008000dd4       0x28 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+                0x0000000008000dd4                HAL_Delay
+ .text.LL_ADC_SetChannelSamplingTime
+                0x0000000008000dfc       0x22 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.LL_ADC_IsEnabled
+                0x0000000008000e1e        0x8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .text.LL_ADC_REG_IsConversionOngoing
+                0x0000000008000e26        0x8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ *fill*         0x0000000008000e2e        0x2 
+ .text.HAL_ADC_Init
+                0x0000000008000e30      0x23c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+                0x0000000008000e30                HAL_ADC_Init
+ .text.HAL_ADC_ConvCpltCallback
+                0x000000000800106c        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+                0x000000000800106c                HAL_ADC_ConvCpltCallback
+ .text.HAL_ADC_ConvHalfCpltCallback
+                0x000000000800106e        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+                0x000000000800106e                HAL_ADC_ConvHalfCpltCallback
+ .text.ADC_DMAHalfConvCplt
+                0x0000000008001070        0xa .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+                0x0000000008001070                ADC_DMAHalfConvCplt
+ .text.HAL_ADC_ErrorCallback
+                0x000000000800107a        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+                0x000000000800107a                HAL_ADC_ErrorCallback
+ .text.ADC_DMAConvCplt
+                0x000000000800107c       0x68 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+                0x000000000800107c                ADC_DMAConvCplt
+ .text.ADC_DMAError
+                0x00000000080010e4       0x1a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+                0x00000000080010e4                ADC_DMAError
+ *fill*         0x00000000080010fe        0x2 
+ .text.HAL_ADC_ConfigChannel
+                0x0000000008001100      0x414 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+                0x0000000008001100                HAL_ADC_ConfigChannel
+ .text.ADC_Enable
+                0x0000000008001514       0x78 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+                0x0000000008001514                ADC_Enable
+ .text.HAL_ADC_Start_DMA
+                0x000000000800158c      0x114 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+                0x000000000800158c                HAL_ADC_Start_DMA
+ .text.ADC_Disable
+                0x00000000080016a0       0x6e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+                0x00000000080016a0                ADC_Disable
+ .text.LL_ADC_IsEnabled
+                0x000000000800170e        0x8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .text.LL_ADC_REG_IsConversionOngoing
+                0x0000000008001716        0x8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ *fill*         0x000000000800171e        0x2 
+ .text.HAL_ADCEx_Calibration_Start
+                0x0000000008001720       0x98 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+                0x0000000008001720                HAL_ADCEx_Calibration_Start
+ .text.HAL_ADCEx_MultiModeConfigChannel
+                0x00000000080017b8      0x160 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+                0x00000000080017b8                HAL_ADCEx_MultiModeConfigChannel
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x0000000008001918       0x24 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+                0x0000000008001918                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x000000000800193c       0x68 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+                0x000000000800193c                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000080019a4       0x1c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+                0x00000000080019a4                HAL_NVIC_EnableIRQ
+ .text.HAL_SYSTICK_Config
+                0x00000000080019c0       0x2c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+                0x00000000080019c0                HAL_SYSTICK_Config
+ .text.DMA_SetConfig
+                0x00000000080019ec       0x34 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .text.DMA_CalcDMAMUXChannelBaseAndMask
+                0x0000000008001a20       0x48 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .text.HAL_DMA_Init
+                0x0000000008001a68       0xe0 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+                0x0000000008001a68                HAL_DMA_Init
+ .text.HAL_DMA_Start_IT
+                0x0000000008001b48       0x84 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+                0x0000000008001b48                HAL_DMA_Start_IT
+ .text.FMAC_WritePreloadDataIncrementPtr
+                0x0000000008001bcc       0x18 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.FMAC_Reset
+                0x0000000008001be4       0x3a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ *fill*         0x0000000008001c1e        0x2 
+ .text.FMAC_ConfigFilterOutputBufferUpdateState
+                0x0000000008001c20       0x68 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.FMAC_WaitOnStartUntilTimeout.constprop.2
+                0x0000000008001c88       0x2a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ *fill*         0x0000000008001cb2        0x2 
+ .text.FMAC_FilterPreload
+                0x0000000008001cb4      0x128 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.FMAC_FilterConfig.part.0
+                0x0000000008001ddc      0x148 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_Init
+                0x0000000008001f24       0x64 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+                0x0000000008001f24                HAL_FMAC_Init
+ .text.HAL_FMAC_FilterConfig
+                0x0000000008001f88       0x1a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+                0x0000000008001f88                HAL_FMAC_FilterConfig
+ .text.HAL_FMAC_FilterPreload
+                0x0000000008001fa2       0x14 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+                0x0000000008001fa2                HAL_FMAC_FilterPreload
+ .text.HAL_FMAC_FilterStart
+                0x0000000008001fb6       0x6e .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+                0x0000000008001fb6                HAL_FMAC_FilterStart
+ .text.HAL_FMAC_ErrorCallback
+                0x0000000008002024        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+                0x0000000008002024                HAL_FMAC_ErrorCallback
+ .text.FMAC_DMAError
+                0x0000000008002026       0x18 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_HalfOutputDataReadyCallback
+                0x000000000800203e        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+                0x000000000800203e                HAL_FMAC_HalfOutputDataReadyCallback
+ .text.FMAC_DMAHalfOutputDataReady
+                0x0000000008002040        0xa .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_OutputDataReadyCallback
+                0x000000000800204a        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+                0x000000000800204a                HAL_FMAC_OutputDataReadyCallback
+ .text.FMAC_DMAOutputDataReady
+                0x000000000800204c       0x18 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_FilterConfigCallback
+                0x0000000008002064        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+                0x0000000008002064                HAL_FMAC_FilterConfigCallback
+ *fill*         0x0000000008002066        0x2 
+ .text.FMAC_DMAFilterConfig
+                0x0000000008002068       0x70 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_FMAC_FilterPreloadCallback
+                0x00000000080020d8        0x2 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+                0x00000000080020d8                HAL_FMAC_FilterPreloadCallback
+ *fill*         0x00000000080020da        0x2 
+ .text.FMAC_DMAFilterPreload
+                0x00000000080020dc       0x88 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .text.HAL_GPIO_Init
+                0x0000000008002164      0x198 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+                0x0000000008002164                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x00000000080022fc        0xa .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+                0x00000000080022fc                HAL_GPIO_WritePin
+ .text.HAL_GPIO_TogglePin
+                0x0000000008002306       0x12 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+                0x0000000008002306                HAL_GPIO_TogglePin
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x0000000008002318       0x18 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+                0x0000000008002318                HAL_GPIO_EXTI_IRQHandler
+ .text.HRTIM_OutputConfig
+                0x0000000008002330       0xaa .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .text.HRTIM_ForceRegistersUpdate
+                0x00000000080023da       0x68 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ *fill*         0x0000000008002442        0x2 
+ .text.HAL_HRTIM_Init
+                0x0000000008002444       0xac .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                0x0000000008002444                HAL_HRTIM_Init
+ .text.HAL_HRTIM_DLLCalibrationStart
+                0x00000000080024f0       0x5c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                0x00000000080024f0                HAL_HRTIM_DLLCalibrationStart
+ .text.HAL_HRTIM_PollForDLLCalibration
+                0x000000000800254c       0x40 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                0x000000000800254c                HAL_HRTIM_PollForDLLCalibration
+ .text.HAL_HRTIM_TimeBaseConfig
+                0x000000000800258c       0x64 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                0x000000000800258c                HAL_HRTIM_TimeBaseConfig
+ .text.HAL_HRTIM_ADCTriggerConfig
+                0x00000000080025f0      0x1de .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                0x00000000080025f0                HAL_HRTIM_ADCTriggerConfig
+ .text.HAL_HRTIM_ADCPostScalerConfig
+                0x00000000080027ce      0x13a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                0x00000000080027ce                HAL_HRTIM_ADCPostScalerConfig
+ .text.HAL_HRTIM_WaveformTimerConfig
+                0x0000000008002908      0x26a .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                0x0000000008002908                HAL_HRTIM_WaveformTimerConfig
+ .text.HAL_HRTIM_WaveformTimerControl
+                0x0000000008002b72       0x86 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                0x0000000008002b72                HAL_HRTIM_WaveformTimerControl
+ .text.HAL_HRTIM_DeadTimeConfig
+                0x0000000008002bf8       0x94 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                0x0000000008002bf8                HAL_HRTIM_DeadTimeConfig
+ .text.HAL_HRTIM_WaveformCompareConfig
+                0x0000000008002c8c      0x148 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                0x0000000008002c8c                HAL_HRTIM_WaveformCompareConfig
+ .text.HAL_HRTIM_WaveformOutputConfig
+                0x0000000008002dd4       0x36 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                0x0000000008002dd4                HAL_HRTIM_WaveformOutputConfig
+ .text.HAL_HRTIM_WaveformOutputStart
+                0x0000000008002e0a       0x2c .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                0x0000000008002e0a                HAL_HRTIM_WaveformOutputStart
+ .text.HAL_HRTIM_WaveformCountStart
+                0x0000000008002e36       0x28 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+                0x0000000008002e36                HAL_HRTIM_WaveformCountStart
+ *fill*         0x0000000008002e5e        0x2 
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x0000000008002e60       0xb4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+                0x0000000008002e60                HAL_PWREx_ControlVoltageScaling
+ .text.HAL_PWREx_DisableUCPDDeadBattery
+                0x0000000008002f14       0x10 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+                0x0000000008002f14                HAL_PWREx_DisableUCPDDeadBattery
+ .text.HAL_RCC_OscConfig
+                0x0000000008002f24      0x424 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+                0x0000000008002f24                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x0000000008003348       0x70 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+                0x0000000008003348                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x00000000080033b8      0x1e8 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+                0x00000000080033b8                HAL_RCC_ClockConfig
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000080035a0      0x2ec .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+                0x00000000080035a0                HAL_RCCEx_PeriphCLKConfig
+ .text.HAL_RTC_WaitForSynchro
+                0x000000000800388c       0x30 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+                0x000000000800388c                HAL_RTC_WaitForSynchro
+ .text.RTC_EnterInitMode
+                0x00000000080038bc       0x50 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+                0x00000000080038bc                RTC_EnterInitMode
+ .text.RTC_ExitInitMode
+                0x000000000800390c       0x44 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+                0x000000000800390c                RTC_ExitInitMode
+ .text.HAL_RTC_Init
+                0x0000000008003950       0x90 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+                0x0000000008003950                HAL_RTC_Init
+ .text.Reset_Handler
+                0x00000000080039e0       0x50 .pio/build/nucleo_g474re/lib9ba/libCMSIS.a(startup_stm32g474xx.o)
+                0x00000000080039e0                Reset_Handler
+ .text.Default_Handler
+                0x0000000008003a30        0x2 .pio/build/nucleo_g474re/lib9ba/libCMSIS.a(startup_stm32g474xx.o)
+                0x0000000008003a30                RTC_Alarm_IRQHandler
+                0x0000000008003a30                TIM8_TRG_COM_IRQHandler
+                0x0000000008003a30                TIM8_CC_IRQHandler
+                0x0000000008003a30                HRTIM1_Master_IRQHandler
+                0x0000000008003a30                SPI4_IRQHandler
+                0x0000000008003a30                FDCAN3_IT0_IRQHandler
+                0x0000000008003a30                TIM1_CC_IRQHandler
+                0x0000000008003a30                HRTIM1_FLT_IRQHandler
+                0x0000000008003a30                HRTIM1_TIMF_IRQHandler
+                0x0000000008003a30                USB_HP_IRQHandler
+                0x0000000008003a30                CORDIC_IRQHandler
+                0x0000000008003a30                HRTIM1_TIMD_IRQHandler
+                0x0000000008003a30                DMA2_Channel8_IRQHandler
+                0x0000000008003a30                EXTI3_IRQHandler
+                0x0000000008003a30                I2C3_ER_IRQHandler
+                0x0000000008003a30                EXTI0_IRQHandler
+                0x0000000008003a30                I2C2_EV_IRQHandler
+                0x0000000008003a30                FPU_IRQHandler
+                0x0000000008003a30                FDCAN1_IT1_IRQHandler
+                0x0000000008003a30                TIM1_UP_TIM16_IRQHandler
+                0x0000000008003a30                ADC1_2_IRQHandler
+                0x0000000008003a30                HRTIM1_TIME_IRQHandler
+                0x0000000008003a30                SPI1_IRQHandler
+                0x0000000008003a30                TIM6_DAC_IRQHandler
+                0x0000000008003a30                HRTIM1_TIMC_IRQHandler
+                0x0000000008003a30                TIM8_UP_IRQHandler
+                0x0000000008003a30                DMA2_Channel2_IRQHandler
+                0x0000000008003a30                DMA1_Channel4_IRQHandler
+                0x0000000008003a30                TIM20_TRG_COM_IRQHandler
+                0x0000000008003a30                USART3_IRQHandler
+                0x0000000008003a30                DMA1_Channel7_IRQHandler
+                0x0000000008003a30                UART5_IRQHandler
+                0x0000000008003a30                ADC3_IRQHandler
+                0x0000000008003a30                TIM4_IRQHandler
+                0x0000000008003a30                DMA2_Channel1_IRQHandler
+                0x0000000008003a30                QUADSPI_IRQHandler
+                0x0000000008003a30                I2C1_EV_IRQHandler
+                0x0000000008003a30                DMA1_Channel6_IRQHandler
+                0x0000000008003a30                UART4_IRQHandler
+                0x0000000008003a30                DMA2_Channel4_IRQHandler
+                0x0000000008003a30                TIM3_IRQHandler
+                0x0000000008003a30                RCC_IRQHandler
+                0x0000000008003a30                TIM20_UP_IRQHandler
+                0x0000000008003a30                DMA1_Channel1_IRQHandler
+                0x0000000008003a30                Default_Handler
+                0x0000000008003a30                DMA2_Channel7_IRQHandler
+                0x0000000008003a30                RTC_TAMP_LSECSS_IRQHandler
+                0x0000000008003a30                DMA1_Channel8_IRQHandler
+                0x0000000008003a30                HRTIM1_TIMA_IRQHandler
+                0x0000000008003a30                TIM7_DAC_IRQHandler
+                0x0000000008003a30                FDCAN3_IT1_IRQHandler
+                0x0000000008003a30                TIM5_IRQHandler
+                0x0000000008003a30                UCPD1_IRQHandler
+                0x0000000008003a30                I2C3_EV_IRQHandler
+                0x0000000008003a30                RTC_WKUP_IRQHandler
+                0x0000000008003a30                PVD_PVM_IRQHandler
+                0x0000000008003a30                SPI2_IRQHandler
+                0x0000000008003a30                ADC5_IRQHandler
+                0x0000000008003a30                DMA2_Channel5_IRQHandler
+                0x0000000008003a30                CRS_IRQHandler
+                0x0000000008003a30                DMA1_Channel5_IRQHandler
+                0x0000000008003a30                USB_LP_IRQHandler
+                0x0000000008003a30                RNG_IRQHandler
+                0x0000000008003a30                HRTIM1_TIMB_IRQHandler
+                0x0000000008003a30                TIM1_TRG_COM_TIM17_IRQHandler
+                0x0000000008003a30                FDCAN2_IT1_IRQHandler
+                0x0000000008003a30                DMA1_Channel3_IRQHandler
+                0x0000000008003a30                ADC4_IRQHandler
+                0x0000000008003a30                WWDG_IRQHandler
+                0x0000000008003a30                I2C4_EV_IRQHandler
+                0x0000000008003a30                FDCAN2_IT0_IRQHandler
+                0x0000000008003a30                LPUART1_IRQHandler
+                0x0000000008003a30                DMA2_Channel6_IRQHandler
+                0x0000000008003a30                FDCAN1_IT0_IRQHandler
+                0x0000000008003a30                TIM2_IRQHandler
+                0x0000000008003a30                COMP7_IRQHandler
+                0x0000000008003a30                COMP1_2_3_IRQHandler
+                0x0000000008003a30                EXTI1_IRQHandler
+                0x0000000008003a30                USART2_IRQHandler
+                0x0000000008003a30                COMP4_5_6_IRQHandler
+                0x0000000008003a30                TIM20_BRK_IRQHandler
+                0x0000000008003a30                I2C2_ER_IRQHandler
+                0x0000000008003a30                DMA1_Channel2_IRQHandler
+                0x0000000008003a30                TIM8_BRK_IRQHandler
+                0x0000000008003a30                FLASH_IRQHandler
+                0x0000000008003a30                TIM20_CC_IRQHandler
+                0x0000000008003a30                USART1_IRQHandler
+                0x0000000008003a30                SPI3_IRQHandler
+                0x0000000008003a30                I2C1_ER_IRQHandler
+                0x0000000008003a30                FMC_IRQHandler
+                0x0000000008003a30                LPTIM1_IRQHandler
+                0x0000000008003a30                DMAMUX_OVR_IRQHandler
+                0x0000000008003a30                I2C4_ER_IRQHandler
+                0x0000000008003a30                USBWakeUp_IRQHandler
+                0x0000000008003a30                SAI1_IRQHandler
+                0x0000000008003a30                DMA2_Channel3_IRQHandler
+                0x0000000008003a30                TIM1_BRK_TIM15_IRQHandler
+ *(.glue_7)
+ .glue_7        0x0000000008003a32        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008003a32        0x0 linker stubs
+ *(.eh_frame)
+ *fill*         0x0000000008003a32        0x2 
+ .eh_frame      0x0000000008003a34        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x0000000008003a34        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008003a34                _init
+ .init          0x0000000008003a38        0x8 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x0000000008003a40        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008003a40                _fini
+ .fini          0x0000000008003a44        0x8 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000008003a4c                . = ALIGN (0x4)
+                0x0000000008003a4c                _etext = .
+
+.vfp11_veneer   0x0000000008003a4c        0x0
+ .vfp11_veneer  0x0000000008003a4c        0x0 linker stubs
+
+.v4_bx          0x0000000008003a4c        0x0
+ .v4_bx         0x0000000008003a4c        0x0 linker stubs
+
+.iplt           0x0000000008003a4c        0x0
+ .iplt          0x0000000008003a4c        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x0000000008003a4c       0x10
+                0x0000000008003a4c                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x0000000008003a4c       0x10 .pio/build/nucleo_g474re/src/system_stm32g4xx.o
+                0x0000000008003a4c                AHBPrescTable
+                0x0000000008003a5c                . = ALIGN (0x4)
+
+.rel.dyn        0x0000000008003a5c        0x0
+ .rel.iplt      0x0000000008003a5c        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ARM.extab      0x0000000008003a5c        0x0
+                0x0000000008003a5c                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000008003a5c                . = ALIGN (0x4)
+
+.ARM            0x0000000008003a5c        0x0
+                0x0000000008003a5c                . = ALIGN (0x4)
+                0x0000000008003a5c                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008003a5c                __exidx_end = .
+                0x0000000008003a5c                . = ALIGN (0x4)
+
+.preinit_array  0x0000000008003a5c        0x0
+                0x0000000008003a5c                . = ALIGN (0x4)
+                0x0000000008003a5c                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008003a5c                PROVIDE (__preinit_array_end = .)
+                0x0000000008003a5c                . = ALIGN (0x4)
+
+.init_array     0x0000000008003a5c        0x4
+                0x0000000008003a5c                . = ALIGN (0x4)
+                0x0000000008003a5c                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000008003a5c        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000008003a60                PROVIDE (__init_array_end = .)
+                0x0000000008003a60                . = ALIGN (0x4)
+
+.fini_array     0x0000000008003a60        0x4
+                0x0000000008003a60                . = ALIGN (0x4)
+                0x0000000008003a60                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008003a60        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000008003a64                PROVIDE (__fini_array_end = .)
+                0x0000000008003a64                . = ALIGN (0x4)
+                0x0000000008003a64                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000       0x1c load address 0x0000000008003a64
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.ExpectedCalculatedOutputSize
+                0x0000000020000000        0x2 .pio/build/nucleo_g474re/src/main.o
+                0x0000000020000000                ExpectedCalculatedOutputSize
+ .data.aFilterCoeffA
+                0x0000000020000002        0x6 .pio/build/nucleo_g474re/src/main.o
+ .data.aFilterCoeffB
+                0x0000000020000008        0x8 .pio/build/nucleo_g474re/src/main.o
+ .data.SystemCoreClock
+                0x0000000020000010        0x4 .pio/build/nucleo_g474re/src/system_stm32g4xx.o
+                0x0000000020000010                SystemCoreClock
+ .data.uwTickFreq
+                0x0000000020000014        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+                0x0000000020000014                uwTickFreq
+ .data.uwTickPrio
+                0x0000000020000018        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+                0x0000000020000018                uwTickPrio
+                0x000000002000001c                . = ALIGN (0x4)
+                0x000000002000001c                _edata = .
+
+.tm_clone_table
+                0x000000002000001c        0x0 load address 0x0000000008003a80
+ .tm_clone_table
+                0x000000002000001c        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x000000002000001c        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+
+.igot.plt       0x000000002000001c        0x0 load address 0x0000000008003a80
+ .igot.plt      0x000000002000001c        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x000000002000001c                . = ALIGN (0x4)
+
+.bss            0x000000002000001c      0x33c load address 0x0000000008003a80
+                0x000000002000001c                _sbss = .
+                0x000000002000001c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x000000002000001c       0x1c /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.Demo      0x0000000020000038       0x58 .pio/build/nucleo_g474re/src/app_dpow.o
+                0x0000000020000038                Demo
+ .bss.aOutputDataToPreload
+                0x0000000020000090        0x6 .pio/build/nucleo_g474re/src/main.o
+ .bss.bTransient
+                0x0000000020000096        0x2 .pio/build/nucleo_g474re/src/main.o
+                0x0000000020000096                bTransient
+ *(COMMON)
+ COMMON         0x0000000020000098       0xcc .pio/build/nucleo_g474re/src/adc.o
+                0x0000000020000098                hadc1
+                0x0000000020000104                hdma_adc1
+ COMMON         0x0000000020000164       0x38 .pio/build/nucleo_g474re/src/fmac.o
+                0x0000000020000164                hfmac
+ COMMON         0x000000002000019c       0xfc .pio/build/nucleo_g474re/src/hrtim.o
+                0x000000002000019c                hhrtim1
+ COMMON         0x0000000020000298       0x94 .pio/build/nucleo_g474re/src/main.o
+                0x0000000020000298                sFmacConfig
+                0x00000000200002c4                hdma_fmac_read
+                0x0000000020000324                Fmac_output
+                0x0000000020000328                Fmac_Wdata
+ COMMON         0x000000002000032c       0x28 .pio/build/nucleo_g474re/src/rtc.o
+                0x000000002000032c                hrtc
+ COMMON         0x0000000020000354        0x4 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+                0x0000000020000354                uwTick
+                0x0000000020000358                . = ALIGN (0x4)
+                0x0000000020000358                _ebss = .
+                0x0000000020000358                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x0000000020000358      0x600 load address 0x0000000008003a80
+                0x0000000020000358                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x0000000020000558                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020000358      0x200 
+                0x0000000020000958                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000558      0x400 
+                0x0000000020000958                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x39 .pio/build/nucleo_g474re/src/adc.o
+ .ARM.attributes
+                0x000000000000008b       0x39 .pio/build/nucleo_g474re/src/app_dpow.o
+ .ARM.attributes
+                0x00000000000000c4       0x39 .pio/build/nucleo_g474re/src/dma.o
+ .ARM.attributes
+                0x00000000000000fd       0x39 .pio/build/nucleo_g474re/src/fmac.o
+ .ARM.attributes
+                0x0000000000000136       0x39 .pio/build/nucleo_g474re/src/gpio.o
+ .ARM.attributes
+                0x000000000000016f       0x39 .pio/build/nucleo_g474re/src/hrtim.o
+ .ARM.attributes
+                0x00000000000001a8       0x39 .pio/build/nucleo_g474re/src/main.o
+ .ARM.attributes
+                0x00000000000001e1       0x39 .pio/build/nucleo_g474re/src/rtc.o
+ .ARM.attributes
+                0x000000000000021a       0x39 .pio/build/nucleo_g474re/src/stm32g4xx_hal_msp.o
+ .ARM.attributes
+                0x0000000000000253       0x39 .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+ .ARM.attributes
+                0x000000000000028c       0x39 .pio/build/nucleo_g474re/src/system_stm32g4xx.o
+ .ARM.attributes
+                0x00000000000002c5       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .ARM.attributes
+                0x00000000000002fe       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .ARM.attributes
+                0x0000000000000337       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .ARM.attributes
+                0x0000000000000370       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .ARM.attributes
+                0x00000000000003a9       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .ARM.attributes
+                0x00000000000003e2       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .ARM.attributes
+                0x000000000000041b       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+ .ARM.attributes
+                0x0000000000000454       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .ARM.attributes
+                0x000000000000048d       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .ARM.attributes
+                0x00000000000004c6       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .ARM.attributes
+                0x00000000000004ff       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .ARM.attributes
+                0x0000000000000538       0x39 .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .ARM.attributes
+                0x0000000000000571       0x21 .pio/build/nucleo_g474re/lib9ba/libCMSIS.a(startup_stm32g474xx.o)
+ .ARM.attributes
+                0x0000000000000592       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000005c6       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000005fa       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x000000000000062c       0x1e /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(.pio/build/nucleo_g474re/firmware.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+
+.comment        0x0000000000000000       0xd7
+ .comment       0x0000000000000000       0x59 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                                         0x5a (size before relaxing)
+ .comment       0x0000000000000059       0x7e .pio/build/nucleo_g474re/src/adc.o
+                                         0x7f (size before relaxing)
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/src/app_dpow.o
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/src/dma.o
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/src/fmac.o
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/src/gpio.o
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/src/hrtim.o
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/src/main.o
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/src/rtc.o
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/src/stm32g4xx_hal_msp.o
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/src/stm32g4xx_it.o
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/src/system_stm32g4xx.o
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal.o)
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc.o)
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_adc_ex.o)
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_cortex.o)
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_dma.o)
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_fmac.o)
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_gpio.o)
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_hrtim.o)
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_pwr_ex.o)
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc.o)
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rcc_ex.o)
+ .comment       0x00000000000000d7       0x7f .pio/build/nucleo_g474re/lib63f/libSTM32G4xx_HAL_Driver.a(stm32g4xx_hal_rtc.o)
+ .comment       0x00000000000000d7       0x5a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .comment       0x00000000000000d7       0x5a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .comment       0x00000000000000d7       0x5a /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+
+.debug_info     0x0000000000000000     0x1035
+ .debug_info    0x0000000000000000      0x11a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .debug_info    0x000000000000011a      0xf1b /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+
+.debug_abbrev   0x0000000000000000      0x2a5
+ .debug_abbrev  0x0000000000000000       0xcc /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .debug_abbrev  0x00000000000000cc      0x1d9 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+
+.debug_loc      0x0000000000000000      0x2e6
+ .debug_loc     0x0000000000000000       0xba /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .debug_loc     0x00000000000000ba      0x22c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+
+.debug_aranges  0x0000000000000000       0x40
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+
+.debug_line     0x0000000000000000      0x3b1
+ .debug_line    0x0000000000000000      0x137 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .debug_line    0x0000000000000137      0x27a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+
+.debug_str      0x0000000000000000      0x8ea
+ .debug_str     0x0000000000000000      0x1ee /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+                                        0x22d (size before relaxing)
+ .debug_str     0x00000000000001ee      0x6fc /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                                        0x913 (size before relaxing)
+
+.debug_frame    0x0000000000000000       0x64
+ .debug_frame   0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x000000000000002c       0x38 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)

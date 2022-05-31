@@ -1,0 +1,19 @@
+{
+    "name": "CMSIS",
+    
+    "description":"STM32 CMSIS",
+    "build": {
+             "includeDir" : "Core/Include",
+             "srcFilter" : [
+                        "-<*>",
+                        "+<Device/ST/STM32G4xx/Source/Templates/system_stm32g4xx.c>",
+                        "+<Device/ST/STM32G4xx/Source/Templates/gcc/startup_stm32g474xx.s>"
+             ],
+             "flags": [
+                     "-I Core/Include",
+                     "-I Device/ST/STM32G4xx/Include",
+                     "-L $PROJECT_DIR/lib/CMSIS/Lib/GCC"
+             ]
+    }
+}
+

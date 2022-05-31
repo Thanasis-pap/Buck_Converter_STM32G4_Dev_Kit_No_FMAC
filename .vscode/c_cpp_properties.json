@@ -1,0 +1,51 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/Inc",
+                "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/Src",
+                "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/lib/STM32G4xx_HAL_Driver/Src",
+                "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/lib/CMSIS",
+                "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/lib/STM32G4xx_HAL_Driver/Inc",
+                "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/lib/CMSIS/Core/Include",
+                "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/lib/CMSIS/Device/ST/STM32G4xx/Include",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/Inc",
+                    "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/Src",
+                    "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/lib/STM32G4xx_HAL_Driver/Src",
+                    "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/lib/CMSIS",
+                    "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/lib/STM32G4xx_HAL_Driver/Inc",
+                    "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/lib/CMSIS/Core/Include",
+                    "/home/thanasis/STM32Cube/Example/Buck_VoltageMode_HW_pio_test5/lib/CMSIS/Device/ST/STM32G4xx/Include",
+                    ""
+                ]
+            },
+            "defines": [
+                "F_CPU=170000000L",
+                "PLATFORMIO=60001",
+                "STM32G4xx",
+                "STM32G474xx",
+                ""
+            ],
+            "compilerPath": "/home/thanasis/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m4",
+                "-mfloat-abi=hard",
+                "-mfpu=fpv4-sp-d16",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
