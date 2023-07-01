@@ -74,8 +74,6 @@ I would like to thank Assistant Prof. mr. Aristeidis Eythimiou for helping me wi
 
 ## License
 
-## License
-
 This project is licensed under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause) by ST Microelectronics. The BSD 3-Clause License is a permissive open source license that allows you to freely use, modify, and distribute the code, both in source and binary forms, for both commercial and non-commercial purposes.
 
 Under the BSD 3-Clause License, you are required to include a copy of the original license and copyright notice in any redistribution or derivative works. However, you are not obligated to share any modifications you make to the code.
