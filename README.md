@@ -1,6 +1,6 @@
 # Digitally Controlled Buck Converter with STM32G4 Discovery Kit
 
-This repository provides the necessary code and resources to implement a digitally controlled Buck Converter using the STM32G4 Discovery board. The project aims to showcase the capabilities of the STM32G4 microcontroller series and provide a practical example of a power electronics application.
+This repository provides the necessary code and resources to implement a digitally controlled Buck Converter using the STM32G4 Discovery board. The project aims to showcase the capabilities of the STM32G4 microcontroller series and provide a practical example of a power electronics application. **This project was created as a Diploma thesis for my Intergrated Master's Degree in Computer Science and Engineering in University of Ioannina, Greece.**
 
 ## Table of Contents
 
@@ -84,4 +84,4 @@ This code is a modified version of the ST Microelectronics code.
 
 ---
 
-We hope this project helps you understand the implementation of a digitally controlled Buck Converter using the STM32G4 Discovery board. If you have any questions
+We hope this project helps you understand the implementation of a digitally controlled Buck Converter using the STM32G4 Discovery board.
