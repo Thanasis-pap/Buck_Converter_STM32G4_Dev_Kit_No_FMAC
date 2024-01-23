@@ -66,7 +66,7 @@ To use the digitally controlled Buck Converter:
 
 ## Contributing
 
-I would like to thank Assistant Prof. mr. [Aristeidis Eythimiou](https://www.cse.uoi.gr/~efthym/Site/Welcome.html)for helping me with the implementation of this project.
+I would like to thank Assistant Prof. mr. [Aristeidis Eythimiou](https://www.cse.uoi.gr/~efthym/Site/Welcome.html) for helping me with the implementation of this project.
 
 ## Basic circuit
 
